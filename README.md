@@ -2,9 +2,6 @@
   <h1>Question Answer Generation for the book 'Fire and Blood' </h1>
 </div>
 
-
-<img width="600" alt="Screenshot 2023-05-09 at 12 25 12 AM" src="https://user-images.githubusercontent.com/114265941/236993806-269636e9-a363-484e-9af9-4997429bbca1.png">
-
 <img width="1030" alt="Screenshot 2023-05-09 at 12 17 28 AM" src="https://user-images.githubusercontent.com/114265941/236993832-b1380d5a-23f3-4244-be77-3155ad390dce.png">
 
 <img width="1027" alt="Screenshot 2023-05-09 at 12 17 57 AM" src="https://user-images.githubusercontent.com/114265941/236993842-091ef6aa-968f-4e27-88bb-cf69a3c7fae7.png">
