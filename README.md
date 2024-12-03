@@ -4,7 +4,6 @@
 
 
 
-<img width="1027" alt="Screenshot 2023-05-09 at 12 17 57 AM" src="https://user-images.githubusercontent.com/114265941/236993842-091ef6aa-968f-4e27-88bb-cf69a3c7fae7.png">
 
 <img width="1027" alt="Screenshot 2023-05-09 at 12 17 57 AM" src="https://user-images.githubusercontent.com/114265941/236993859-0426e0fd-0d64-4168-bd0d-d5929884bd4a.png">
 
